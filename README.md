@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Aizhan you call me Aika.
 - 👀 I’m interested in coding. 
-- 🌱 I’m currently learning and practicing React js. But I do know Angular and a little bit of Vue js.
+- 🌱 I’m currently learning and practicing React js. And also know Angular and a little bit of Vue js.
 - 💞️ I’m looking to collaborate on React js projects.
 - 📫 You can reach me via gmail account, which is mail.aizhan@gmail.com. 
 
